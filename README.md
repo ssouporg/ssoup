@@ -25,9 +25,9 @@ High level system decomposition:
 SSOUP in CLJ/CLJS:
 - [ssoupl-cljx] define and implement a bridge layer (as thin as possible) mapping ssoupl
   to Clojure and ClojureScript (to [cljx](https://github.com/lynaghk/cljx)?).
-- [ssoupl-cljx-typed] support of core.typed ()
+- [ssoupl-cljx-typed] support of [core.typed](https://github.com/clojure/core.typed)
 
-- Already implemented in CLJ Plaza
+- Already implemented in [CLJ Plaza](http://antoniogarrote.github.io/clj-plaza/)
 
 - Already implemented in [Grafter](http://grafter.org/)
 
